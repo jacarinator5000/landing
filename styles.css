@@ -1,0 +1,10 @@
+header {
+    overflow: hidden;
+    background-color: #000;
+}
+.nav-links {
+    color: white;
+    display: flex;
+    align-content: flex-end;
+    margin-left: 175px;
+}
